@@ -32,11 +32,10 @@
 
 ### 📌 Portfolio
 <div>
-	<a href="https://www.notion.so/ffd4f0b5bb97410f89ff5a6e0f52c4b7">
+	<a href="https://jumpy-velvet-fa4.notion.site/1927f11c1ed348d3a4b38950fa393031">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 <div>
-
 
 
 
