@@ -1,10 +1,15 @@
-## 이병도 | Backend Programmer
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20bxxxdx's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Programmer&descAlignY=52&descAlign=62)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbxxxdx&count_bg=%233CD107&title_bg=%23171B16&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 ![bxxxdx's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxxxdx&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangdo911)](https://solved.ac/bangdo911/)
 <br>
 <br>
+
+
+
 ### 📚 Platforms & Languages
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -29,7 +34,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 </div>
-<br>
+
 
 ### 📌 Portfolio
 <div>
